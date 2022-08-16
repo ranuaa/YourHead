@@ -20,10 +20,10 @@
       gap: 2rem;
   }
   
-  .a-left > img {
+  /* .a-left > img {
     width: 4rem;
     height: 4rem;
-  }
+  } */
   
   .Webname > h1 {
       font-size: 3rem;
@@ -88,4 +88,9 @@
       width: 100%;
       align-items: center;
       justify-content: center;
+  }
+
+  .a-left > img {
+    width: 200px;
+    height: 200px;
   }
